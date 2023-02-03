@@ -1,0 +1,10 @@
+com\amitraj\productservice\controller\ProductController.class
+com\amitraj\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\amitraj\productservice\model\Product.class
+com\amitraj\productservice\model\Product$ProductBuilder.class
+com\amitraj\productservice\dto\ProductResponse.class
+com\amitraj\productservice\service\ProductService.class
+com\amitraj\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\amitraj\productservice\dto\ProductRequest.class
+com\amitraj\productservice\repository\ProductRepository.class
+com\amitraj\productservice\ProductServiceApplication.class
